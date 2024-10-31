@@ -175,3 +175,19 @@ Total trips by month shows a growth from month to month, with number of trips be
 
 Further analysis would need to be done to see if this is a seasonal trend across a 5 year period or just a one off. Also, the cause and proposed solutions should be a thing of interest in the foreseable future.
 
+#### Trip Time Analysis:
+
+   ![](Analysis_Average_duration_by_hour.PNG)|![](Analysis_Average_duration_by_month.PNG)|![](Analysis_Avg_duration_by_Weekday.PNG)
+
+Average duration of a trip from our analysis in the year 2016 is 15.81 mins. This varies by day and time as seen in the report.
+
+Trips during the weekends tend to be longer, with an average trip time between these days being above 18.7 mins. Trips on Saturday seem to be the longest with an average of 18.8mins while trips on Tuesday are the shortest with an average time of 14.30mins.
+
+By trip starttime, trips started at 12 am are the longest with an average time above 30mins. While trips immediately after midnight (at 1am) are the shortest with a time of 14.14 mins on the average.
+
+
+#### Segmentation of Start Station
+
+Using the average of average duration (15.08 mins) as the benchmark for low duration and high duration of trip
+
+ ![](Analysis_start_station_segmentation.PNG)|![](Capture_segmentation.PNG)
