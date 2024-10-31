@@ -200,7 +200,7 @@ High Utilization Stations: Lastly, we have 0.2% of stations (just 1) showing hig
 
 ## Recommendation and Conclusion
 
-#### Recommendation
+### Recommendation
 
 
 
@@ -216,7 +216,7 @@ Optimize for Weekend Travelers:Since weekend trips are longer, consider offering
 
 Lastly, the scatter plot analysis of start stations provides valuable insights into bike usage patterns, highlighting areas of high and low demand. By adjusting bike placement, promoting targeted usage, and supporting high-demand areas, the bikeshare program can optimize resource allocation, improve bike availability, and increase overall user satisfaction.
 
-#### Conclusion
+### Conclusion
 
 The analysis reveals clear trip patterns that can drive strategic decisions.
 
