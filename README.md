@@ -143,3 +143,19 @@ Some of the important transformation steps are highlighted here
            )
            RETURN
            Result
+
+![](Capture_switch_measure.PNG)
+
+- Step 9 : Visualization begins
+
+- Step 10: I created a measure to give each chart title an interactive feature, whereby each chart title changes according to the measure being selected on the swictch slicer
+
+Columnchart Title = SELECTEDVALUE(SlicerValues[Value]) & " by Hour of Day"
+
+Linechart Title = SELECTEDVALUE(SlicerValues[Value]) & " by Month"
+
+Treemap Title = SELECTEDVALUE(SlicerValues[Value]) & " by Weekday"
+
+Below is a screenshot of the report
+
+![](Dashboard.PNG)
