@@ -115,4 +115,4 @@ Some of the important transformation steps are highlighted here
 
 Calculated columns created
 
-![](Bikeshare_image.jpg)
+![](Columns_created.PNG)
