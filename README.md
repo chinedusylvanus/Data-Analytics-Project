@@ -164,7 +164,7 @@ Below is a screenshot of the report
 
 #### Trip Frequency and Patterns:
 
-   ![](Analysis_Total_trips_by_hour.PNG)|![](Analysis_Total_trips_by_month.PNG)|![](Analysis_Total_trips_by_Weekday.PNG)
+   ![](Capture_totaltrips.PNG)
 
 From the report, it is seen that the busiest starttime of trip on hourly basis fall between 4pm - 7pm with the peak at 5pm for trips made in the year 2016.
 
@@ -177,7 +177,7 @@ Further analysis would need to be done to see if this is a seasonal trend across
 
 #### Trip Time Analysis:
 
-   ![](Analysis_Average_duration_by_hour.PNG)|![](Analysis_Average_duration_by_month.PNG)|![](Analysis_Avg_duration_by_Weekday.PNG)
+   ![](Capture_avgduration.PNG)
 
 Average duration of a trip from our analysis in the year 2016 is 15.81 mins. This varies by day and time as seen in the report.
 
