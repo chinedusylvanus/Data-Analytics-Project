@@ -163,12 +163,15 @@ Below is a screenshot of the report
 ## Analysis
 
 #### Trip Frequency and Patterns:
-   Total Trips by hour                   |  Total trips by weekday                   | Total trips by month
-   ![](Analysis_Total_trips_by_hour.PNG) | ![](Analysis_Total_trips_by_Weekday.PNG) | ![](Analysis_Total_trips_by_month.PNG) | 
+
+   ![](Analysis_Total_trips_by_hour.PNG)|![](Analysis_Total_trips_by_month.PNG)|![](Analysis_Total_trips_by_Weekday.PNG)
 
 From the report, it is seen that the busiest starttime of trip on hourly basis fall between 4pm - 7pm with the peak at 5pm for trips made in the year 2016.
+
 Also during weekdays, there seem to be a lot of trips that start at 8am.
 Looking at the data by the Days of the week, trips tend to drop on Sunday and monday and starts picking up from Tuesday. The company experiences the highest trips on Wednesday followed by Thursday and Friday.
+
 Total trips by month shows a growth from month to month, with number of trips being at its highest in the month of September, from October we see a drop as we approached the end of the year. This calls for further investigation as to why there was a dip in the last quarter of the year.
+
 Further analysis would need to be done to see if this is a seasonal trend across a 5 year period or just a one off. Also, the cause and proposed solutions should be a thing of interest in the foreseable future.
 
