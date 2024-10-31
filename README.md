@@ -120,6 +120,7 @@ Some of the important transformation steps are highlighted here
 - Step 6 : Create a new table called SlicerValues (This is what I will be using for my switch measures)
 
 - Step 7 : DAX Calculations - Create a new table called Calculations; this is where all my new measures created would reside for better organization of my report
+  
            i)   Total_trips = COUNTROWS('NYC-CitiBike-2016')
            ii)  Average duration/trip = DIVIDE(SUM('NYC-CitiBike-2016'[Trip Duration_mins]),COUNTROWS('NYC-CitiBike-2016'))
            iii) Max Trip Duration = MAX('NYC-CitiBike-2016'[Trip Duration_mins])
@@ -127,4 +128,18 @@ Some of the important transformation steps are highlighted here
            v)   # Bikes Utilized = DISTINCTCOUNT('NYC-CitiBike-2016'[bikeid])
            vi)  Average No. of Trips/Bike = DIVIDE('CALCULATIONS'[Total_trips],'CALCULATIONS'[# Bikes Utilized])
 
-![](DAX_Total_trips.PNG) | ![](DAX_AvgDuration_per_Trip.PNG) | ![](DAX_MaxTripDuration.PNG) | ![](DAX_Bikes_Utilized.PNG) |
+   ![](DAX_Total_trips.PNG) | ![](DAX_AvgDuration_per_Trip.PNG) | ![](DAX_MaxTripDuration.PNG) | ![](DAX_Bikes_Utilized.PNG) |
+
+- Step 8 : Now I created the switch measures
+
+           SW_Measures = 
+           VAR Selected_Value = SELECTEDVALUE('SlicerValues'[Value])
+           VAR Result = SWITCH(Selected_Value,
+                        "Total_trips",[Total_trips],
+                        "Average duration/trip",[Average duration/trip],
+                        "# Bikes Utilized",[# Bikes Utilized],
+                        "Average No. of Trips/Bike",[Average No. of Trips/Bike],
+                        BLANK()
+           )
+           RETURN
+           Result
