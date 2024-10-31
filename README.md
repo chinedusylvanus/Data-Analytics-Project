@@ -204,15 +204,15 @@ High Utilization Stations: Lastly, we have 0.2% of stations (just 1) showing hig
 
 
 
-Targeted Marketing During Peak Hours:The highest trip frequency between 4 pm - 7 pm, with a peak at 5 pm, suggests an opportunity to maximize marketing efforts and promotions during this time frame. Consider introducing dynamic pricing or discounts during these hours to capture more demand or encourage off-peak travel.
+Targeted Marketing During Peak Hours: The highest trip frequency between 4 pm - 7 pm, with a peak at 5 pm, suggests an opportunity to maximize marketing efforts and promotions during this time frame. Consider introducing dynamic pricing or discounts during these hours to capture more demand or encourage off-peak travel.
 
-Weekday Morning Surge Optimization:The noticeable increase in trips at 8 am during weekdays implies a significant commuter demand. Implementing targeted commuter packages or subscriptions for frequent riders during these hours could increase customer loyalty and ridership.
+Weekday Morning Surge Optimization: The noticeable increase in trips at 8 am during weekdays implies a significant commuter demand. Implementing targeted commuter packages or subscriptions for frequent riders during these hours could increase customer loyalty and ridership.
 
-Investigate Q4 Trip Decline:There is a notable drop in trips from October to December, following a peak in September. This trend calls for deeper investigation to identify possible causes (e.g., weather, holiday season changes, operational factors) and potential strategies to mitigate this dip, such as special promotions or seasonal campaigns.
+Investigate Q4 Trip Decline: There is a notable drop in trips from October to December, following a peak in September. This trend calls for deeper investigation to identify possible causes (e.g., weather, holiday season changes, operational factors) and potential strategies to mitigate this dip, such as special promotions or seasonal campaigns.
 
-Leverage High Trip Demand on Wednesdays:Wednesday has the highest trip volume, with consistent demand through Thursday and Friday. Introducing mid-week promotions or rewards programs to capitalize on the mid-week peak could sustain and enhance ridership.
+Leverage High Trip Demand on Wednesdays: Wednesday has the highest trip volume, with consistent demand through Thursday and Friday. Introducing mid-week promotions or rewards programs to capitalize on the mid-week peak could sustain and enhance ridership.
 
-Optimize for Weekend Travelers:Since weekend trips are longer, consider offering weekend-specific travel plans, potentially introducing higher fare rates for extended trips or adding special service features tailored to weekend travelers, such as leisure-oriented promotions or family packages.
+Optimize for Weekend Travelers: Since weekend trips are longer, consider offering weekend-specific travel plans, potentially introducing higher fare rates for extended trips or adding special service features tailored to weekend travelers, such as leisure-oriented promotions or family packages.
 
 Lastly, the scatter plot analysis of start stations provides valuable insights into bike usage patterns, highlighting areas of high and low demand. By adjusting bike placement, promoting targeted usage, and supporting high-demand areas, the bikeshare program can optimize resource allocation, improve bike availability, and increase overall user satisfaction.
 
