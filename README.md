@@ -179,10 +179,8 @@ Further analysis would need to be done to see if this is a seasonal trend across
 
    ![](Analysis_Average_duration_by_hour.PNG)|![](Analysis_Average_duration_by_month.PNG)|![](Analysis_Avg_duration_by_Weekday.PNG)
 
-<p align="center">
-  <img src="Analysis_Average_duration_by_hour.PNG" alt="Image 1" width="200" height="200" style="margin-right: 10px;">
-  <img src="Analysis_Average_duration_by_month.PNG" alt="Image 2" width="200" height="200">
-</p>
+   ![](Analysis_Average_duration_by_hour.PNG)|![](Analysis_Average_duration_by_month.PNG)|
+
 Average duration of a trip from our analysis in the year 2016 is 15.81 mins. This varies by day and time as seen in the report.
 
 Trips during the weekends tend to be longer, with an average trip time between these days being above 18.7 mins. Trips on Saturday seem to be the longest with an average of 18.8mins while trips on Tuesday are the shortest with an average time of 14.30mins.
