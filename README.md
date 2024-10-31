@@ -113,6 +113,18 @@ Some of the important transformation steps are highlighted here
 
            vii)  Trip Duration_mins = 'NYC-CitiBike-2016'[tripduration_sec]/60
 
-Calculated columns created
+**Calculated columns created
 
 ![](Columns_created.PNG)
+
+- Step 6 : Create a new table called SlicerValues (This is what I will be using for my switch measures)
+
+- Step 7 : DAX Calculations - Create a new table called Calculations; this is where all my new measures created would reside for better organization of my report
+           i)   Total_trips = COUNTROWS('NYC-CitiBike-2016')
+           ii)  Average duration/trip = DIVIDE(SUM('NYC-CitiBike-2016'[Trip Duration_mins]),COUNTROWS('NYC-CitiBike-2016'))
+           iii) Max Trip Duration = MAX('NYC-CitiBike-2016'[Trip Duration_mins])
+           iv)  Min Trip Duration = MIN('NYC-CitiBike-2016'[Trip Duration_mins])
+           v)   # Bikes Utilized = DISTINCTCOUNT('NYC-CitiBike-2016'[bikeid])
+           vi)  Average No. of Trips/Bike = DIVIDE('CALCULATIONS'[Total_trips],'CALCULATIONS'[# Bikes Utilized])
+
+![](DAX_Total_trips.PNG) | ![](DAX_AvgDuration_per_Trip.PNG) | ![](DAX_MaxTripDuration.PNG) | ![](DAX_Bikes_Utilized.PNG) |
