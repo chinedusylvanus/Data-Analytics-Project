@@ -1,2 +1,2 @@
 # NYC CitiBike Trip Analysis (Using PowerBI)
-![](Bikeshare image.jpg)
+![](Bikeshare_image.jpg)
