@@ -198,7 +198,14 @@ By trip starttime, trips started at 12 am are the longest with an average time a
 
 Using the average of average duration (15.08 mins) as the benchmark for low duration and high duration of trip
 
- ![](Analysis_start_station_segmentation.PNG)|![](Capture_segmentation.PNG)
+
+<p align="center">
+  <img src="Analysis_start_station_segmentation.PNG" alt="Chart Image" width="200">
+</p>
+
+<p align="center">
+  <img src="Capture_segmentation.PNG" alt="Chart Image" width="200">
+</p>
 
 
 Underutilization in Low-Demand Areas:56% of start stations (358) are characterised with low duration and low trip frequency. This might indicate areas of potential underutilization, suggesting opportunities to either boost demand through promotions or consider redistributing resources if demand remains consistently low.
