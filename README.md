@@ -1,5 +1,5 @@
 # NYC CitiBike Trip Analysis (Using PowerBI)
-Click (here) [] to download final version of the report
+
 ![](Bikeshare_image.jpg)
 
 ## Introduction
@@ -159,6 +159,8 @@ Treemap Title = SELECTEDVALUE(SlicerValues[Value]) & " by Weekday"
 Below is a screenshot of the report
 
 ![](Dashboard.PNG)
+
+Click (here) [NYC Citi_Bike.pbix] to download final version of the report
 
 ## Analysis
 
