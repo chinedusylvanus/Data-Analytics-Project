@@ -148,7 +148,7 @@ Some of the important transformation steps are highlighted here
            Result
 
 <p align="center">
-  <img src="Capture_switch_measure.PNG" alt="Chart Image" width="300">
+  <img src="Capture_switch_measure.PNG" alt="Chart Image" width="200">
 </p>
 
 
