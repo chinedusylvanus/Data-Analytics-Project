@@ -128,7 +128,10 @@ Some of the important transformation steps are highlighted here
            v)   # Bikes Utilized = DISTINCTCOUNT('NYC-CitiBike-2016'[bikeid])
            vi)  Average No. of Trips/Bike = DIVIDE('CALCULATIONS'[Total_trips],'CALCULATIONS'[# Bikes Utilized])
 
-   ![](Capture_DAX.PNG)
+ 
+  <p align="center">
+  <img src="Capture_DAX.PNG" alt="Chart Image" width="300">
+</p>
 
 - Step 8 : Now I created the switch measures
 
