@@ -130,7 +130,7 @@ Some of the important transformation steps are highlighted here
 
  
   <p align="center">
-  <img src="Capture_DAX.PNG" alt="Chart Image" width="400">
+  <img src="Capture_DAX.PNG" alt="Chart Image" width="500">
 </p>
 
 - Step 8 : Now I created the switch measures
