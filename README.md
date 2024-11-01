@@ -160,7 +160,7 @@ Below is a screenshot of the report
 
 ![](Dashboard.PNG)
 
-Click here !()[NYC_Citi_Bike.pbix] to download final version of the report
+[Download the Power BI report](https://github.com/chinedusylvanus/NYC_CitiBike_Trip_Analysis/blob/main/NYC_Citi_Bike.pbix)
 
 ## Analysis
 
