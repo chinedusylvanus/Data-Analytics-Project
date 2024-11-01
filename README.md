@@ -160,7 +160,7 @@ Below is a screenshot of the report
 
 ![](Dashboard.PNG)
 
-Click (here) [NYC Citi_Bike.pbix] to download final version of the report
+Click (here) [NYC_Citi_Bike.pbix] to download final version of the report
 
 ## Analysis
 
