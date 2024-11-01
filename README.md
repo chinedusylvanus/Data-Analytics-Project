@@ -144,7 +144,10 @@ Some of the important transformation steps are highlighted here
            RETURN
            Result
 
-![](Capture_switch_measure.PNG)
+<p align="center">
+  <img src="Capture_switch_measure.PNG" alt="Chart Image" width="400">
+</p>
+
 
 - Step 9 : Visualization begins
 
