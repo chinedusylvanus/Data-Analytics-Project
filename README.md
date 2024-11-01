@@ -200,11 +200,11 @@ Using the average of average duration (15.08 mins) as the benchmark for low dura
 
 
 <p align="center">
-  <img src="Analysis_start_station_segmentation.PNG" alt="Chart Image" width="200">
+  <img src="Analysis_start_station_segmentation.PNG" alt="Chart Image" width="400">
 </p>
 
 <p align="center">
-  <img src="Capture_segmentation.PNG" alt="Chart Image" width="200">
+  <img src="Capture_segmentation.PNG" alt="Chart Image" width="400">
 </p>
 
 
